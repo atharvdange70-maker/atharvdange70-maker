@@ -39,7 +39,6 @@ Aspiring DevOps and Cloud Engineer with hands-on experience in AWS, Docker, Kube
 <p align="Right">
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjRqM3pub3R2a3V3czhlNXhwejYyNG84M2ttbXIxampldWU2NDh4MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SLY1OsYf4g7UnRuxkn/giphy.gif" width="300">
 </p>
-
 # 🌐 Connect With Me
 
 <p align="left">
